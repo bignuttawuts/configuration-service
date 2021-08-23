@@ -7,7 +7,6 @@ spring:
     config:
       server:
         git:
-#          uri: /Users/bootnuttawig/Code/Code_2021/configuration-service
           uri: https://github.com/bignuttawuts/configuration-service.git
           default-label: main
           clone-on-start: true
